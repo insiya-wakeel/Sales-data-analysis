@@ -1,5 +1,5 @@
 # Sales-data-analysis
-📌 Overview
+📌 **Overview**
 
 This project explores Diwali Sales Data to uncover trends in customer purchasing behavior, demographics, and revenue patterns. The focus is on cleaning raw data, performing exploratory analysis, and creating clear visualizations to highlight actionable business insights.
 
